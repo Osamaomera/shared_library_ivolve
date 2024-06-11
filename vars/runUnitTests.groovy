@@ -3,4 +3,3 @@ def call() {
 	echo "Running Unit Test..."
 	sh './gradlew clean test'	
 }
-
